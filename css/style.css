@@ -1,0 +1,182 @@
+
+.container .row >ul >li a {
+    font-size: 12px;
+    text-decoration: none;
+    color: grey
+}
+
+#logo {
+    color:#FF6000 !important;
+
+}
+.container .row .logo-png p {
+    font-size: 40px;
+}
+
+#input {
+    width: 600px;
+    height: 50px;
+
+}
+#btn1{
+    height: 50px;
+    width: 137px;
+
+}
+#bar1 {
+    height: 7px;
+    background-color: #7622DA;
+}
+#bar2 {
+    height: 7px;
+    background-color: #47C6EB;
+}
+
+#bar3 {
+    height: 7px;
+    background-color: #ED5F1F;
+}
+
+#bar4 {
+    height: 7px;
+    background-color: #F59F28;
+}
+
+#bar5 {
+    height: 7px;
+    background-color: #6B1E5B;
+}
+
+#bar6 {
+    height: 7px;
+    background-color: #45B794;
+}
+body .header .container .btn-group button{
+    height: 58px;
+    border-right: 1px solid black;
+
+
+}
+ body .header .container .btn-group button:hover {
+    color:#ED5F1F !important;
+
+}
+
+#img1 {
+    height: 538px;
+    background: linear-gradient(to bottom, #7d6fca 0%, #8dc6ff 100%);
+
+}
+
+#icon1 {
+  margin-left: 370px;
+    font-size: 25px;
+}
+#slider{
+    margin-right: -40px;
+    margin-top: -60px;
+}
+
+#icon2 {
+    font-size: 20px;
+    cursor:pointer;
+}
+
+#btn5 {
+    background-color: #A7D7FF;
+    font-size: 20px
+
+}
+
+#picture {
+    cursor:pointer;
+}
+
+#basic-addon1{
+    cursor:pointer;
+}
+
+#font1 {
+    font-size: 19px;
+    margin-right: 50px;
+    margin-top: 91px;
+}
+#font2 {
+    font-size: 19px;
+    margin-right: 70px;
+}
+#font3 {
+    font-size: 19px;
+    margin-right: 50px;
+}
+#font4 {
+    font-size: 19px;
+    margin-right: 40px;
+}
+#font5 {
+    font-size: 19px;
+    
+}
+#h1 {
+    margin-left: 65px;
+    margin-right: 100px;
+}
+#h2 {
+    margin-right: 100px;
+}
+#h3 {
+    margin-right: 60px;
+}
+#h4 {
+    margin-right: 65px;
+}
+#h5 {
+    margin-right: 110px;
+}
+#h6 {
+    margin-right: 100px;
+}
+#h7 {
+    margin-right: 100px;
+}
+
+#p1{
+    margin-left: 20px;
+    margin-right: 40px;
+}
+#p3{
+   margin-left: 25px;
+   margin-right: 59px;
+
+}
+#p4{
+  margin-right: 50px;
+}
+#p5{
+    margin-right: 33px;
+
+}
+#p6{
+ margin-right: 25px;
+}
+
+#p7{
+    margin-right: 20px;
+}
+
+#hytwo {
+    margin-top: 100px;
+}
+
+#arrow {
+    margin-left: -30px;
+}
+#logo1 {
+    color:#FF6000 !important;
+    font-size: 30px;
+}
+
+#logo2:hover, #logo4:hover {
+ color: #000 !important;
+ cursor:pointer;
+}
